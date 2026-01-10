@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "name": "Naruto: Shadow of the Leaf",
+    "description": "A ninja’s journey through determination, rivalry, and destiny.",
+    "price": 399,
+    "type": "manga",
+    "image": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c"
+  },
+  {
+    "id": 2,
+    "name": "One Piece: Grand Line Tales",
+    "description": "Pirates sail across dangerous seas in search of the ultimate treasure.",
+    "price": 449,
+    "type": "manga",
+    "image": "https://images.unsplash.com/photo-1524578271613-d550eacf6090"
+  },
+  {
+    "id": 3,
+    "name": "Attack on Titans",
+    "description": "Humanity fights for survival against giant, mysterious creatures.",
+    "price": 499,
+    "type": "manga",
+    "image": "https://images.unsplash.com/photo-1512820790803-83ca734da794"
+  },
+  {
+    "id": 4,
+    "name": "Dragon Realm Chronicles",
+    "description": "Epic battles and legendary warriors clash in a mystical world.",
+    "price": 379,
+    "type": "manga",
+    "image": "https://images.unsplash.com/photo-1519681393784-d120267933ba"
+  },
+  {
+    "id": 5,
+    "name": "The Curious Panda",
+    "description": "A playful panda discovers the joy of friendship and adventure.",
+    "price": 199,
+    "type": "kids",
+    "image": "https://images.unsplash.com/photo-1509021436665-8f07dbf5bf1d"
+  },
+  {
+    "id": 6,
+    "name": "Magic Crayons",
+    "description": "A child’s drawings come alive in colorful and magical ways.",
+    "price": 179,
+    "type": "kids",
+    "image": "https://images.unsplash.com/photo-1516979187457-637abb4f9353"
+  },
+  {
+    "id": 7,
+    "name": "The Brave Little Train",
+    "description": "A tiny train learns courage while crossing mountains.",
+    "price": 159,
+    "type": "kids",
+    "image": "https://images.unsplash.com/photo-1528207776546-365bb710ee93"
+  },
+  {
+    "id": 8,
+    "name": "Space Adventures for Kids",
+    "description": "Young explorers travel through planets and stars.",
+    "price": 219,
+    "type": "kids",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee"
+  },
+  {
+    "id": 9,
+    "name": "JavaScript Simplified",
+    "description": "A beginner-friendly guide to modern JavaScript concepts.",
+    "price": 599,
+    "type": "programming",
+    "image": "https://images.unsplash.com/photo-1517430816045-df4b7de11d1d"
+  },
+  {
+    "id": 10,
+    "name": "Mastering React",
+    "description": "Build scalable and efficient front-end applications with React.",
+    "price": 699,
+    "type": "programming",
+    "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c"
+  },
+  {
+    "id": 11,
+    "name": "Node.js in Practice",
+    "description": "Server-side development with real-world Node.js examples.",
+    "price": 649,
+    "type": "programming",
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085"
+  },
+  {
+    "id": 12,
+    "name": "Design Thinking Handbook",
+    "description": "Creative approaches to solving complex problems.",
+    "price": 499,
+    "type": "education",
+    "image": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f"
+  },
+  {
+    "id": 13,
+    "name": "The Art of Focus",
+    "description": "Techniques to improve concentration in a digital world.",
+    "price": 399,
+    "type": "self-help",
+    "image": "https://images.unsplash.com/photo-1509021436665-8f07dbf5bf1d"
+  },
+  {
+    "id": 14,
+    "name": "Atomic Habits for Students",
+    "description": "Small habits that lead to remarkable academic success.",
+    "price": 429,
+    "type": "self-help",
+    "image": "https://images.unsplash.com/photo-1495446815901-a7297e633e8d"
+  },
+  {
+    "id": 15,
+    "name": "Mindful Living",
+    "description": "A practical guide to peace, balance, and awareness.",
+    "price": 459,
+    "type": "self-help",
+    "image": "https://images.unsplash.com/photo-1506784365847-bbad939e9335"
+  },
+  {
+    "id": 16,
+    "name": "The Startup Blueprint",
+    "description": "Step-by-step guidance to building a successful startup.",
+    "price": 749,
+    "type": "business",
+    "image": "https://images.unsplash.com/photo-1507679799987-c73779587ccf"
+  },
+  {
+    "id": 17,
+    "name": "Marketing in the Digital Age",
+    "description": "Modern strategies for online growth and branding.",
+    "price": 699,
+    "type": "business",
+    "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d"
+  },
+  {
+    "id": 18,
+    "name": "Finance Made Easy",
+    "description": "Understanding money, savings, and investments simply.",
+    "price": 549,
+    "type": "finance",
+    "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40"
+  },
+  {
+    "id": 19,
+    "name": "History of Ancient Empires",
+    "description": "Stories of powerful civilizations and their legacies.",
+    "price": 599,
+    "type": "history",
+    "image": "https://images.unsplash.com/photo-1505664194779-8beaceb93744"
+  },
+  {
+    "id": 20,
+    "name": "World Geography Atlas",
+    "description": "Explore continents, countries, and cultures worldwide.",
+    "price": 629,
+    "type": "education",
+    "image": "https://images.unsplash.com/photo-1469474968028-56623f02e42e"
+  }
+]
