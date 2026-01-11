@@ -8,7 +8,7 @@ import register from './routes/user.route.js'
 import book from './routes/book.route.js'
 import paymentRoutes from './routes/payments.route.js'
 import cartRoutes from './routes/cart.route.js'
-import "./model/bookModel.js";   // ✅ ADD THIS
+import "./model/bookModel.js"; 
 
 const server = express()
 
